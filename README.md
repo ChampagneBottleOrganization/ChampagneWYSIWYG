@@ -1,6 +1,6 @@
 # champagnewysiwyg
 
-> Another WYSIWYG for VUE2 with WCAG support!
+> Another WYSIWYG for VUE2 with WCAG support! Dead project...
 
 ## Build Setup
 
